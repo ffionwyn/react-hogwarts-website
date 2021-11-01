@@ -3,6 +3,7 @@ export default function App() {
     <div className="App">
       <div className="container"></div>
       <div>
+        <header>Welcome to Hogwarts School of Witchcraft and Wizardry</header>
         <footer>
           <a
             href="https://ffionwyn.github.io/react-hogwarts-website/"
