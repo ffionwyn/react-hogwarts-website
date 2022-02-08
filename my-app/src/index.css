@@ -11,14 +11,18 @@ body {
 h1 {
   font-size: 25px;
   font-weight: 800;
-  color: #b8860b;
-  text-align-last: center;
+  color: #b22222;
+  text-align-last: left;
+  margin-top: 50px;
+  margin-left: 10px;
+  text-decoration-line: underline;
 }
 
-h3 {
+p {
   font-size: 18px;
-  text-align-last: center;
+  text-align-last: left;
   color: black;
+  margin-left: 10px;
 }
 
 body {
@@ -28,4 +32,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+  position: fixed;
+  left: 50%;
+  padding: 5px;
+  width: 150px;
 }
