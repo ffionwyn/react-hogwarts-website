@@ -1,15 +1,19 @@
+import Logo from "../src/images/hogwarts-crest-transparent.png";
 export default function App() {
   return (
     <div className="App">
       <div className="container"></div>
       <div>
-        <h1>Welcome to Hogwarts!</h1>
-        <h3>
+        <div>
+          <img src={Logo} alt="hogwarts-crest-transparent.png" />
+        </div>
+        <h1>Hogwarts School of Witchcraft and Wizardry</h1>
+        <p>
           We are pleased to inform you that you have been accepted at Hogwarts
           School of Witchcraft and Wizardry. <br />
           Term begins on 1 September, we await your owl by no later than 31
           July.
-        </h3>
+        </p>
         <footer>
           <a
             href="https://ffionwyn.github.io/react-hogwarts-website/"
