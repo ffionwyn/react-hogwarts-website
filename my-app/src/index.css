@@ -8,8 +8,9 @@
 body {
   background: url("/src/images/hogwarts-background.png");
 }
+
 h1 {
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 800;
   color: #b22222;
   text-align-last: left;
@@ -27,11 +28,8 @@ p {
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
+    "URW Chancery L", cursive;
 }
 
 img {

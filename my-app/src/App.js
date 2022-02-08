@@ -11,8 +11,6 @@ export default function App() {
         <p>
           We are pleased to inform you that you have been accepted at Hogwarts
           School of Witchcraft and Wizardry. <br />
-          Term begins on 1 September, we await your owl by no later than 31
-          July.
         </p>
         <footer>
           <a
